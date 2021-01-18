@@ -3,6 +3,7 @@ body{
      background-size:100vw 50vw;
      background-repeat: no-repeat;
      background-attachment: fixed;
+      background-color: black;
 }
 p.mokeb{
     font-size: 2vw;
